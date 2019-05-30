@@ -1,0 +1,674 @@
+# depslib dependency file v1.0
+1554239626 source:c:\programowanie\codeblocksprojects\bazakontakow\structures.c
+	"structures.h"
+
+1556007226 c:\programowanie\codeblocksprojects\bazakontakow\structures.h
+
+1556008550 source:c:\programowanie\codeblocksprojects\bazakontakow\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"printing.h"
+	"adding.h"
+	"deleting.h"
+	"save_to_file.h"
+	"read_from_file.h"
+	<stdio.h>
+
+1556007226 c:\programowanie\codeblocksprojects\bazakontakow\printing.h
+	"structures.h"
+
+1555863759 source:c:\programowanie\codeblocksprojects\bazakontakow\printing.c
+	"printing.h"
+	<stddef.h>
+
+1555949249 c:\programowanie\codeblocksprojects\bazakontakow\adding.h
+	"structures.h"
+
+1555949891 source:c:\programowanie\codeblocksprojects\bazakontakow\adding.c
+	"adding.h"
+	<stddef.h>
+	<stdlib.h>
+
+1555944869 c:\programowanie\codeblocksprojects\bazakontakow\deleting.h
+	"structures.h"
+
+1555864809 source:c:\programowanie\codeblocksprojects\bazakontakow\deleting.c
+	"deleting.h"
+	<stddef.h>
+
+1556007427 c:\programowanie\codeblocksprojects\bazakontakow\save_to_file.h
+	"structures.h"
+	<stdio.h>
+
+1555945018 source:c:\programowanie\codeblocksprojects\bazakontakow\save_to_file.c
+	"save_to_file.h"
+	<stddef.h>
+	<stdio.h>
+
+1555946130 c:\programowanie\codeblocksprojects\bazakontakow\read_from_file.h
+	"structures.h"
+	<stdio.h>
+
+1556008126 source:c:\programowanie\codeblocksprojects\bazakontakow\read_from_file.c
+	"read_from_file.h"
+	<stdlib.h>
+	<stddef.h>
+
+1556008551 source:c:\programowanie\codeblocksprojects\bazakontakow\editing.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	<stddef.h>
+
+1555951037 c:\programowanie\codeblocksprojects\bazakontakow\editing.h
+	"structures.h"
+
+1556015811 source:c:\users\kamil\desktop\bazakontakow-master\adding.c
+	"adding.h"
+	<stddef.h>
+	<stdlib.h>
+
+1556015811 c:\users\kamil\desktop\bazakontakow-master\adding.h
+	"structures.h"
+
+1557762587 c:\users\kamil\desktop\bazakontakow-master\structures.h
+
+1556015811 source:c:\users\kamil\desktop\bazakontakow-master\deleting.c
+	"deleting.h"
+	<stddef.h>
+
+1556015811 c:\users\kamil\desktop\bazakontakow-master\deleting.h
+	"structures.h"
+
+1556015811 source:c:\users\kamil\desktop\bazakontakow-master\editing.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	<stddef.h>
+
+1556015811 c:\users\kamil\desktop\bazakontakow-master\editing.h
+	"structures.h"
+
+1556015811 c:\users\kamil\desktop\bazakontakow-master\printing.h
+	"structures.h"
+
+1557774821 source:c:\users\kamil\desktop\bazakontakow-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"printing.h"
+	"adding.h"
+	"deleting.h"
+	"save_to_file.h"
+	"read_from_file.h"
+	"search.h"
+	<stdio.h>
+
+1556174277 c:\users\kamil\desktop\bazakontakow-master\save_to_file.h
+	"structures.h"
+	<stdio.h>
+
+1556015811 c:\users\kamil\desktop\bazakontakow-master\read_from_file.h
+	"structures.h"
+	<stdio.h>
+
+1556015811 source:c:\users\kamil\desktop\bazakontakow-master\printing.c
+	"printing.h"
+	<stddef.h>
+
+1557763966 source:c:\users\kamil\desktop\bazakontakow-master\read_from_file.c
+	"read_from_file.h"
+	<stdlib.h>
+	<stddef.h>
+
+1556015811 source:c:\users\kamil\desktop\bazakontakow-master\save_to_file.c
+	"save_to_file.h"
+	<stddef.h>
+	<stdio.h>
+
+1557781194 source:c:\users\kamil\desktop\bazakontakow-master\search.c
+	"search.h"
+	"structures.h"
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1557696392 c:\users\kamil\desktop\bazakontakow-master\search.h
+	"structures.h"
+
+1557786588 source:c:\users\kamil\desktop\pp2\adding.c
+	"adding.h"
+	<stddef.h>
+	<stdlib.h>
+
+1557786588 c:\users\kamil\desktop\pp2\adding.h
+	"structures.h"
+
+1557786588 c:\users\kamil\desktop\pp2\structures.h
+
+1557786588 source:c:\users\kamil\desktop\pp2\deleting.c
+	"deleting.h"
+	<stddef.h>
+
+1557786588 c:\users\kamil\desktop\pp2\deleting.h
+	"structures.h"
+
+1557787214 source:c:\users\kamil\desktop\pp2\editing.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	<stddef.h>
+	<stdio.h>
+
+1557787214 c:\users\kamil\desktop\pp2\editing.h
+	"structures.h"
+
+1557786588 c:\users\kamil\desktop\pp2\printing.h
+	"structures.h"
+
+1557787246 source:c:\users\kamil\desktop\pp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"deleting.h"
+	"save_to_file.h"
+	"read_from_file.h"
+	"search.h"
+	<stdio.h>
+
+1557786588 c:\users\kamil\desktop\pp2\save_to_file.h
+	"structures.h"
+	<stdio.h>
+
+1557786588 c:\users\kamil\desktop\pp2\read_from_file.h
+	"structures.h"
+	<stdio.h>
+
+1557786588 c:\users\kamil\desktop\pp2\search.h
+	"structures.h"
+
+1557786588 source:c:\users\kamil\desktop\pp2\printing.c
+	"printing.h"
+	<stddef.h>
+
+1557786588 source:c:\users\kamil\desktop\pp2\read_from_file.c
+	"read_from_file.h"
+	<stdlib.h>
+	<stddef.h>
+
+1557786588 source:c:\users\kamil\desktop\pp2\save_to_file.c
+	"save_to_file.h"
+	<stddef.h>
+	<stdio.h>
+
+1557787602 source:c:\users\kamil\desktop\pp2\search.c
+	"search.h"
+	"structures.h"
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1557786588 source:c:\users\wojciech\desktop\pp2\pp2\adding.c
+	"adding.h"
+	<stddef.h>
+	<stdlib.h>
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2\adding.h
+	"structures.h"
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2\structures.h
+
+1557786588 source:c:\users\wojciech\desktop\pp2\pp2\deleting.c
+	"deleting.h"
+	<stddef.h>
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2\deleting.h
+	"structures.h"
+
+1557787214 source:c:\users\wojciech\desktop\pp2\pp2\editing.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	<stddef.h>
+	<stdio.h>
+
+1557787214 c:\users\wojciech\desktop\pp2\pp2\editing.h
+	"structures.h"
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2\printing.h
+	"structures.h"
+
+1558460907 source:c:\users\wojciech\desktop\pp2\pp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"deleting.h"
+	"save_to_file.h"
+	"read_from_file.h"
+	"search.h"
+	"sort.h"
+	<stdio.h>
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2\save_to_file.h
+	"structures.h"
+	<stdio.h>
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2\read_from_file.h
+	"structures.h"
+	<stdio.h>
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2\search.h
+	"structures.h"
+
+1557786588 source:c:\users\wojciech\desktop\pp2\pp2\printing.c
+	"printing.h"
+	<stddef.h>
+
+1557786588 source:c:\users\wojciech\desktop\pp2\pp2\read_from_file.c
+	"read_from_file.h"
+	<stdlib.h>
+	<stddef.h>
+
+1557786588 source:c:\users\wojciech\desktop\pp2\pp2\save_to_file.c
+	"save_to_file.h"
+	<stddef.h>
+	<stdio.h>
+
+1557930307 source:c:\users\wojciech\desktop\pp2\pp2\search.c
+	"search.h"
+	"structures.h"
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1558460607 source:c:\users\wojciech\desktop\pp2\pp2\sort.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"structures.h"
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+
+1558460853 c:\users\wojciech\desktop\pp2\pp2\sort.h
+	"structures.h"
+
+1557786588 source:c:\users\micha³\desktop\pp2\adding.c
+	"adding.h"
+	<stddef.h>
+	<stdlib.h>
+
+1557786588 c:\users\micha³\desktop\pp2\adding.h
+	"structures.h"
+
+1557786588 c:\users\micha³\desktop\pp2\structures.h
+
+1557786588 source:c:\users\micha³\desktop\pp2\deleting.c
+	"deleting.h"
+	<stddef.h>
+
+1557786588 c:\users\micha³\desktop\pp2\deleting.h
+	"structures.h"
+
+1557787214 source:c:\users\micha³\desktop\pp2\editing.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	<stddef.h>
+	<stdio.h>
+
+1557787214 c:\users\micha³\desktop\pp2\editing.h
+	"structures.h"
+
+1557786588 c:\users\micha³\desktop\pp2\printing.h
+	"structures.h"
+
+1557786588 source:c:\users\micha³\desktop\pp2\printing.c
+	"printing.h"
+	<stddef.h>
+
+1557786588 source:c:\users\micha³\desktop\pp2\read_from_file.c
+	"read_from_file.h"
+	<stdlib.h>
+	<stddef.h>
+
+1557786588 c:\users\micha³\desktop\pp2\read_from_file.h
+	"structures.h"
+	<stdio.h>
+
+1557786588 source:c:\users\micha³\desktop\pp2\save_to_file.c
+	"save_to_file.h"
+	<stddef.h>
+	<stdio.h>
+
+1557786588 c:\users\micha³\desktop\pp2\save_to_file.h
+	"structures.h"
+	<stdio.h>
+
+1557930307 source:c:\users\micha³\desktop\pp2\search.c
+	"search.h"
+	"structures.h"
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1557786588 c:\users\micha³\desktop\pp2\search.h
+	"structures.h"
+
+1558461961 source:c:\users\micha³\desktop\pp2\sort.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"structures.h"
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+
+1558461807 source:c:\users\micha³\desktop\pp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"deleting.h"
+	"save_to_file.h"
+	"read_from_file.h"
+	"search.h"
+	"sort.h"
+	<stdio.h>
+
+1558460853 c:\users\micha³\desktop\pp2\sort.h
+	"structures.h"
+
+1557786588 source:c:\users\wojciech\desktop\pp2\pp2a\adding.c
+	"adding.h"
+	<stddef.h>
+	<stdlib.h>
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2a\adding.h
+	"structures.h"
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2a\structures.h
+
+1557786588 source:c:\users\wojciech\desktop\pp2\pp2a\deleting.c
+	"deleting.h"
+	<stddef.h>
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2a\deleting.h
+	"structures.h"
+
+1557787214 source:c:\users\wojciech\desktop\pp2\pp2a\editing.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	<stddef.h>
+	<stdio.h>
+
+1557787214 c:\users\wojciech\desktop\pp2\pp2a\editing.h
+	"structures.h"
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2a\printing.h
+	"structures.h"
+
+1558486626 source:c:\users\wojciech\desktop\pp2\pp2a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"deleting.h"
+	"save_to_file.h"
+	"read_from_file.h"
+	"search.h"
+	"sort.h"
+	<stdio.h>
+	<windows.h>
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2a\save_to_file.h
+	"structures.h"
+	<stdio.h>
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2a\read_from_file.h
+	"structures.h"
+	<stdio.h>
+
+1557786588 c:\users\wojciech\desktop\pp2\pp2a\search.h
+	"structures.h"
+
+1558483947 c:\users\wojciech\desktop\pp2\pp2a\sort.h
+	"structures.h"
+
+1558486586 source:c:\users\wojciech\desktop\pp2\pp2a\printing.c
+	"printing.h"
+	<stddef.h>
+	<windows.h>
+
+1557786588 source:c:\users\wojciech\desktop\pp2\pp2a\read_from_file.c
+	"read_from_file.h"
+	<stdlib.h>
+	<stddef.h>
+
+1557786588 source:c:\users\wojciech\desktop\pp2\pp2a\save_to_file.c
+	"save_to_file.h"
+	<stddef.h>
+	<stdio.h>
+
+1557930307 source:c:\users\wojciech\desktop\pp2\pp2a\search.c
+	"search.h"
+	"structures.h"
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1558486586 source:c:\users\wojciech\desktop\pp2\pp2a\sort.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"structures.h"
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+
+1557786588 source:c:\users\kamil\desktop\wz\adding.c
+	"adding.h"
+	<stddef.h>
+	<stdlib.h>
+
+1557786588 c:\users\kamil\desktop\wz\adding.h
+	"structures.h"
+
+1557786588 c:\users\kamil\desktop\wz\structures.h
+
+1557786588 source:c:\users\kamil\desktop\wz\deleting.c
+	"deleting.h"
+	<stddef.h>
+
+1557786588 c:\users\kamil\desktop\wz\deleting.h
+	"structures.h"
+
+1557787214 source:c:\users\kamil\desktop\wz\editing.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	<stddef.h>
+	<stdio.h>
+
+1557787214 c:\users\kamil\desktop\wz\editing.h
+	"structures.h"
+
+1557786588 c:\users\kamil\desktop\wz\printing.h
+	"structures.h"
+
+1558600762 source:c:\users\kamil\desktop\wz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"deleting.h"
+	"save_to_file.h"
+	"read_from_file.h"
+	"search.h"
+	"sort.h"
+	<stdio.h>
+	<windows.h>
+
+1557786588 c:\users\kamil\desktop\wz\save_to_file.h
+	"structures.h"
+	<stdio.h>
+
+1557786588 c:\users\kamil\desktop\wz\read_from_file.h
+	"structures.h"
+	<stdio.h>
+
+1558558402 c:\users\kamil\desktop\wz\search.h
+	"structures.h"
+
+1558483947 c:\users\kamil\desktop\wz\sort.h
+	"structures.h"
+
+1558486586 source:c:\users\kamil\desktop\wz\printing.c
+	"printing.h"
+	<stddef.h>
+	<windows.h>
+
+1557786588 source:c:\users\kamil\desktop\wz\read_from_file.c
+	"read_from_file.h"
+	<stdlib.h>
+	<stddef.h>
+
+1557786588 source:c:\users\kamil\desktop\wz\save_to_file.c
+	"save_to_file.h"
+	<stddef.h>
+	<stdio.h>
+
+1558559100 source:c:\users\kamil\desktop\wz\search.c
+	"search.h"
+	"structures.h"
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1558558040 source:c:\users\kamil\desktop\wz\sort.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"structures.h"
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+
+1557786588 source:c:\users\kamil\desktop\wz — kopia\adding.c
+	"adding.h"
+	<stddef.h>
+	<stdlib.h>
+
+1557786588 c:\users\kamil\desktop\wz — kopia\adding.h
+	"structures.h"
+
+1557786588 c:\users\kamil\desktop\wz — kopia\structures.h
+
+1557786588 source:c:\users\kamil\desktop\wz — kopia\deleting.c
+	"deleting.h"
+	<stddef.h>
+
+1557786588 c:\users\kamil\desktop\wz — kopia\deleting.h
+	"structures.h"
+
+1557787214 source:c:\users\kamil\desktop\wz — kopia\editing.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	<stddef.h>
+	<stdio.h>
+
+1557787214 c:\users\kamil\desktop\wz — kopia\editing.h
+	"structures.h"
+
+1557786588 c:\users\kamil\desktop\wz — kopia\printing.h
+	"structures.h"
+
+1558600762 source:c:\users\kamil\desktop\wz — kopia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"deleting.h"
+	"save_to_file.h"
+	"read_from_file.h"
+	"search.h"
+	"sort.h"
+	<stdio.h>
+	<windows.h>
+
+1557786588 c:\users\kamil\desktop\wz — kopia\save_to_file.h
+	"structures.h"
+	<stdio.h>
+
+1557786588 c:\users\kamil\desktop\wz — kopia\read_from_file.h
+	"structures.h"
+	<stdio.h>
+
+1558558402 c:\users\kamil\desktop\wz — kopia\search.h
+	"structures.h"
+
+1558483947 c:\users\kamil\desktop\wz — kopia\sort.h
+	"structures.h"
+
+1558486586 source:c:\users\kamil\desktop\wz — kopia\printing.c
+	"printing.h"
+	<stddef.h>
+	<windows.h>
+
+1557786588 source:c:\users\kamil\desktop\wz — kopia\save_to_file.c
+	"save_to_file.h"
+	<stddef.h>
+	<stdio.h>
+
+1558559100 source:c:\users\kamil\desktop\wz — kopia\search.c
+	"search.h"
+	"structures.h"
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1558600922 source:c:\users\kamil\desktop\wz — kopia\sort.c
+	"editing.h"
+	"printing.h"
+	"adding.h"
+	"structures.h"
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+
+1559242248 source:c:\users\kamil\desktop\wz — kopia\read_from_file.c
+	"read_from_file.h"
+	<stdlib.h>
+	<stddef.h>
+
